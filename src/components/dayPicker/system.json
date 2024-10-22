@@ -1,6 +1,6 @@
 {
 	"propSpecConfig": {
-		"path": "src/components/dayPicker/props.js",
+		"path": "dist/components/dayPicker/props.js",
 		"functions": [],
 		"dependents": []
 	}
